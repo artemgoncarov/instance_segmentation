@@ -1,1 +1,1 @@
-# instance_segmentation
+# semantic_segmentation
